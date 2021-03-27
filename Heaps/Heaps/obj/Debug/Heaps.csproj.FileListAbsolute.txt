@@ -1,0 +1,14 @@
+C:\Users\itsda\source\repos\Heaps\Heaps\bin\Debug\Heaps.exe.config
+C:\Users\itsda\source\repos\Heaps\Heaps\bin\Debug\Heaps.exe
+C:\Users\itsda\source\repos\Heaps\Heaps\bin\Debug\Heaps.pdb
+C:\Users\itsda\source\repos\Heaps\Heaps\obj\Debug\Heaps.csprojAssemblyReference.cache
+C:\Users\itsda\source\repos\Heaps\Heaps\obj\Debug\Heaps.csproj.CoreCompileInputs.cache
+C:\Users\itsda\source\repos\Heaps\Heaps\obj\Debug\Heaps.exe
+C:\Users\itsda\source\repos\Heaps\Heaps\obj\Debug\Heaps.pdb
+D:\Programación\CSharp\Data_Structures\Heaps\Heaps\bin\Debug\Heaps.exe.config
+D:\Programación\CSharp\Data_Structures\Heaps\Heaps\bin\Debug\Heaps.exe
+D:\Programación\CSharp\Data_Structures\Heaps\Heaps\bin\Debug\Heaps.pdb
+D:\Programación\CSharp\Data_Structures\Heaps\Heaps\obj\Debug\Heaps.csprojAssemblyReference.cache
+D:\Programación\CSharp\Data_Structures\Heaps\Heaps\obj\Debug\Heaps.csproj.CoreCompileInputs.cache
+D:\Programación\CSharp\Data_Structures\Heaps\Heaps\obj\Debug\Heaps.exe
+D:\Programación\CSharp\Data_Structures\Heaps\Heaps\obj\Debug\Heaps.pdb

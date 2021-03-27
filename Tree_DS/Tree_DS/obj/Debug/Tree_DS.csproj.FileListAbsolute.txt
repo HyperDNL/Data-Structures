@@ -1,0 +1,7 @@
+D:\Programación\CSharp\Data_Structures\Tree_DS\Tree_DS\bin\Debug\Tree_DS.exe.config
+D:\Programación\CSharp\Data_Structures\Tree_DS\Tree_DS\bin\Debug\Tree_DS.exe
+D:\Programación\CSharp\Data_Structures\Tree_DS\Tree_DS\bin\Debug\Tree_DS.pdb
+D:\Programación\CSharp\Data_Structures\Tree_DS\Tree_DS\obj\Debug\Tree_DS.csprojAssemblyReference.cache
+D:\Programación\CSharp\Data_Structures\Tree_DS\Tree_DS\obj\Debug\Tree_DS.csproj.CoreCompileInputs.cache
+D:\Programación\CSharp\Data_Structures\Tree_DS\Tree_DS\obj\Debug\Tree_DS.exe
+D:\Programación\CSharp\Data_Structures\Tree_DS\Tree_DS\obj\Debug\Tree_DS.pdb
